@@ -11,21 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-.mb-3 {
+.form-container {
 
   color: rgb(5, 5, 16);
   background-color: blue;
 
 }
-.form-label {
+.name-input {
 
   margin-left: 10px;
 }
-.mb-3, form-check {
+.email-input {
 
   margin-left: 10px;
 }
-.btn, btn-primary {
+.submit-button {
 
   margin-left: 200px;
   background-color: brown;

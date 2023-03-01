@@ -15,4 +15,5 @@ export const Form = () => {
             </Form>
         </div>
     )
-}
+};
+export default Form;
